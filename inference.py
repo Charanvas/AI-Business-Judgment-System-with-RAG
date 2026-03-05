@@ -1,7 +1,4 @@
-"""
-Local Inference with RAG - FIXED VERSION
-Run on: MacBook M1 Pro
-"""
+
 
 import torch
 import faiss
