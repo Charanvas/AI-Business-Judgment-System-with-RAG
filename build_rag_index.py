@@ -1,7 +1,3 @@
-"""
-Build RAG Index from corpus
-Run on: MacBook M1 Pro
-"""
 
 import json
 import faiss
