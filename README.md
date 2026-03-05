@@ -397,14 +397,3 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📧 Contact
-
-For questions or collaboration:
-- GitHub Issues: [Project Issues](https://github.com/yourusername/qwen-business-judgment/issues)
-- Email: your.email@example.com
-
----
-
-**Built with**: Qwen2.5-1.5B • QLoRA • FAISS • Gradio • Sentence Transformers
-
-**Powered by**: Reasoning-based AI, not prediction scores
